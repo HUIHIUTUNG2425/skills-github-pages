@@ -1,4 +1,4 @@
 ---
-title: "This is a test"
-date: 2025-02-04
+title: "Welcome to my blog"
+date: 2019-01-20
 ---
